@@ -1,12 +1,11 @@
-*{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
 body {
     background-image: url(./img/fundo.jpg)
 
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
   }
   header{
     height: 100px;
@@ -72,3 +71,8 @@ width: auto;
     font-size: 27px;
     text-align: left;
   } 
+  a{
+    color: white;
+
+
+  }
