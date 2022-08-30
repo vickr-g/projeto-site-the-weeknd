@@ -42,8 +42,7 @@ width: auto;
 
 }
   .texto{
-    width: 1300px;
-    text-align: center;
+    width: 500px;
     font-size: 30px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -67,10 +66,10 @@ width: auto;
     bottom: 0;
     left: 0;
     height: 29px;
-    position:fixed;
+    position:center;
     width: 100%;
     color: white;
-    font-size: 27px;
+    font-size: 20px;
     text-align: left;
   } 
   
@@ -80,7 +79,7 @@ width: auto;
   
   @media (max-width: 640px){
     .foto-the-weeknd{
-      width: 90vw;
+      width: 50vw;
     }
     .titulo{
       font-size: 4vw;
@@ -94,7 +93,9 @@ width: auto;
     .texto{
       width: 700px;
       
-    
+    }
+    .logo{
+      width: auto;
     }
 
 
