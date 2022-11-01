@@ -1,7 +1,7 @@
 # Site do cantor The Weeknd
 
 
-![](./img/Capturar.PNG)
+![](./img/readme.PNG)
 [Clique aqui para acessar o site](https://github.com/vickr-g/projeto-site-the-weeknd).
 ---
 ## sobre
